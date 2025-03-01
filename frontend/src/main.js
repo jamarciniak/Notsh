@@ -4,7 +4,7 @@ import './style.css'
 import router from './router'
 import App from './App.vue'
 import { useAuthStore } from './store/auth'
-import axios from './axios'
+import axios from './axios.js'
 
 const app = createApp(App)
 app.use(createPinia())

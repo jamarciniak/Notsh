@@ -1,3 +1,2 @@
 frontend/.gitignore
-notsh/__pycache__/__init__.cpython-313.pyc
-notsh/__pycache__/settings.cpython-313.pyc
+notsh/__pycache__/
